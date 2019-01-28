@@ -1,6 +1,6 @@
 owner=270996708584980482
 prefix=N
-game= Çááí ŘíŇĺ ßČíŃĺ íĚí
+game= اللي طيزه كبيره يجي
 stayinchannel=true
 songinstatus=false
 token=NTM5NDY4MDI4NjczMjYxNTc5.DzC50A.LmOxaL5qpC5RdaaaX-e_A1C73Zc
