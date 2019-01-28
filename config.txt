@@ -1,6 +1,6 @@
 owner=270996708584980482
 prefix=N
-game= ╟ссэ ╪э╥х ▀╚э╤х э╠э
+game= ├З├б├б├н ┼Ш├н┼З─║ ├Я─М├н┼Г─║ ├н─Ъ├н
 stayinchannel=true
 songinstatus=false
-token=NTM5NDY4MDI4NjczMjYxNTc5.DzCyxQ._XZNTBaecMiu9FLb0yGqkGhzdwA
+token=NTM5NDY4MDI4NjczMjYxNTc5.DzC50A.LmOxaL5qpC5RdaaaX-e_A1C73Zc
